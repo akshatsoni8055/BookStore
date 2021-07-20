@@ -20,7 +20,7 @@ DELETE   /book/:id               id = bookId
 ```
 ## clone this project
 ## use cd eCommerce then npm i
-## edit credentials in /db/config.json and /config.json
+## edit credentials in /db/config/config.json and /config.json
 ## run "npx sequelize db:create"
 ## run "npx sequelize db:migrate"
 ## run "npx sequelize db:seed:all"
